@@ -5,6 +5,10 @@
 
 div {
     border: 1px gray solid; 
+    width: 6.35rem; 
+    height: 7.5rem;
+    margin: 13rem auto;
+    padding: 5;
 }
 
 p {
@@ -12,4 +16,8 @@ p {
     background-color:yellow;
     width: 100px;
     height: 100px
+}
+
+button {
+    background-color: blue;
 }
